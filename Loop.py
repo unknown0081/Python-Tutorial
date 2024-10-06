@@ -14,10 +14,6 @@ def main():
             break
     print("End\n")
 
-    while True:
-        if a == 10:
-            break
-
 
 if __name__ == "__main__":
     main()
